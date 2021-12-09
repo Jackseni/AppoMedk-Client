@@ -21,8 +21,8 @@ export class AddOfficeComponent implements OnInit {
     horarios: [],
   };
   public schedule: Schedule = {
-    empieza: 9,
-    finaliza: 10,
+    empieza: 8,
+    finaliza: 9,
   };
 
   public healthCenters: HealthCenter[] = [];
